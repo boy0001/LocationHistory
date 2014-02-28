@@ -1,0 +1,10 @@
+name: LocationHistory
+main: com.empcraft.LocationHistory
+version: 0.0.1
+commands:
+    history:
+      description: Show your location history
+    previous:
+      description: Go to the previous location
+    next:
+      description: Go to the next location
